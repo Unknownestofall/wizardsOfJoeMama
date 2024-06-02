@@ -53,7 +53,7 @@ wizard battle
 - dream
 - fringe science magic
 - wheater(dynamic *map*)
-
+-light magic
 - environment(when we make maps)
 
 - builds
@@ -84,6 +84,8 @@ class types
 - artifiser(makes item, potions)
 - giga chad(seduction points, every class gets a debuff called lil penis(*exept unknown*), carries downed player)
 - beast master(absorve beast soul and can transform into it)
+- paladin (healer, prayer skills)
+- witch doctor()
 
 -timelimit before battle
 -custom settings
